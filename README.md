@@ -1,4 +1,4 @@
-  <span>
+  <div style="text-align: center">
     <img src="http://kaanintas.com/night.gif"  alt="gif" width="300">
-  </span>
-  <span>Hi its me Furkan and this is my code junk</span>
+  </div>
+  <h4>Hi its me Furkan and this is my code junk</h4>
